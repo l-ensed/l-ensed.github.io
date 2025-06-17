@@ -15,4 +15,4 @@ URL:(https://github.com/l-ensed/garahe)  -  this is only the source code as the 
 - I led the team in the back-end development of the project, in particular, I created the database and I worked on the Account Management features and the real-time parking lot views. 
 
 ##Contact
-You can reach me on my email [GMail](rnzsbstn@gmail.com).
+You can reach me on my email [GMail](rnzsbstn@gmail.com) and [LinkedIn](linkedin.com/in/renz-sebastian-nuestro-5599981a2).
